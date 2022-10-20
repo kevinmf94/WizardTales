@@ -8,4 +8,4 @@ Game developed to higher studies final project to be executed in Android and Web
 </div>
 
 ## Version
-The game was developed in Unity 5, the upgrade code are update to 2022 version. 
+The game was developed in Unity 5. Code updated code for execute into 2022 version.
